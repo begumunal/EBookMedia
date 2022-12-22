@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>CLIENT_ID</key>
+	<string>728403997142-0sndn3qk2qjpc7ruc2f3lo4vcaaq574c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.728403997142-0sndn3qk2qjpc7ruc2f3lo4vcaaq574c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCp2yyMKyPHgxsCSEOOpDCwHKj_zQKPobo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>728403997142</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.begumunal.ReadingBooks</string>
+	<key>PROJECT_ID</key>
+	<string>readingbooksdatabase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>readingbooksdatabase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:728403997142:ios:3d11d68489e9aee55d7477</string>
+</dict>
+</plist>

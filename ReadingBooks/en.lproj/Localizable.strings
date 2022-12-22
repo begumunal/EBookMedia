@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  ReadingBooks
+
+  Created by Begum Unal on 21.09.2022.
+  
+*/
+"login" = "Login";
+"sign up" = "Sign Up";
+"log out"="Logout";
+"remove account" = "Remove Account";
+"email" = "E-mail";
+"password" = "Password";
+"books" = "Books";
+"profile" = "Profile";
+"description" = "Description";
+"save" = "Save";
+"my library" = "My Library" ;
+"password again" = "Password Again";
+"readed" = "Readed";
+"reading" = "Readed";
+"read" = "Read";
+"delete" = "Delete";
+"likes" = "Likes";
+"search" = "Search";
+"create your new account" = "Create Your New Account" ; 
+"REGISTER" = "REGISTER";
+"WELCOME" = "WELCOME";
+"name" = "Name";
+"username" = "Username";
+"log in to your existant account" = "Log in to your existant account";
+"foget password?" = "Foget password?";
+"posts" = "Posts";
+"followers" = "Followers";
+"following" = "Following";
+"Do you want to remove account?" = "Do you want to remove account?";
+"Do you want to exit?" = "Do you want to exit?";
+"Yes" = "Yes";
+"No" = "No";
+"follow" = "Follow";
+"send" = "Send";
+"reading book right now"  = "Reading book right now :";
+"done" = "Done" ;
+"search" = "Search";
+"did you like this book?" = "Did you like this book?" ;
+"yes" = "Yes" ;
+"no" = "No";
+"edit profile" = "Edit Profile" ;
