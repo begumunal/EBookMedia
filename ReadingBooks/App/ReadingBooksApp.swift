@@ -27,17 +27,17 @@ struct ReadingBooksApp: App {
     
     var body: some Scene {
         WindowGroup {
-            //WelcomeView()
-               // .environment(\.managedObjectContext, persistenceController.container.viewContext)
+           WelcomeView()
+                .environment(\.managedObjectContext, persistenceController.container.viewContext)
             
-          if Auth.auth().currentUser != nil{//daha önce giriş yaptıysa
+           /*if Auth.auth().currentUser != nil{//daha önce giriş yaptıysa
                 HomePageView()
                     .environment(\.managedObjectContext, persistenceController.container.viewContext)
             }
             else{
                 WelcomeView()
                     .environment(\.managedObjectContext, persistenceController.container.viewContext)
-            }
+            }*/
             
         }
     }

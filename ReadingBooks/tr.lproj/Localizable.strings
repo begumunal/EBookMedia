@@ -26,7 +26,7 @@
 "foget password?" = "Şifreni mi unuttun?";
 "posts" = "Gönderi";
 "followers" = "Takipçi";
-"following" = "Takip Edilen";
+"following" = "Takip Ediliyor";
 "Do you want to remove account?" = "Hesabını silmek istediğinden emin misin?";
 "Do you want to exit?" = "Çıkış yapmak istediğinizden emin misiniz?";
 "Yes" = "Evet";
@@ -40,3 +40,7 @@
 "yes" = "Evet" ;
 "no" = "Hayır";
 "edit profile" = "Profili Düzenle";
+"message" = "Mesaj";
+"If you follow, you can send a message to this person" = "Eğer takip ederseniz bu kişiye mesaj gönderebilirsiniz.";
+"are you sure?" = "Emin misin?";
+"message send to user" = "Kullanıcıya mesaj gönder";

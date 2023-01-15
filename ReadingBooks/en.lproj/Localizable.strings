@@ -46,3 +46,7 @@
 "yes" = "Yes" ;
 "no" = "No";
 "edit profile" = "Edit Profile" ;
+"message" = "Message";
+"If you follow, you can send a message to this person" = "If you follow, you can send a message to this person.";
+"are you sure" = "Emin misin?";
+"message send to user" = "Message send to user";

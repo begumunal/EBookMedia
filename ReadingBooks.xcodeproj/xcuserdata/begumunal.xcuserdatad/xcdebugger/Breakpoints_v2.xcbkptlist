@@ -36,5 +36,69 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDF6F9EB-ED80-4FF1-B229-682A040FF77F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReadingBooks/Scene/TabBar/Map/map/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "mapDataGet()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "854411FE-AEF2-4BAA-8FCE-83EC4A9653ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReadingBooks/Scene/ToolBar/Profile/ViewModel/SaveEditingInProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "savePost(userId:name:surename:postImage:postId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "854411FE-AEF2-4BAA-8FCE-83EC4A9653ED - 2473e20fd95bc5c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReadingBooks.SaveEditingInProfile.savePost(userId: Swift.String, name: Swift.String, surename: Swift.String, postImage: __C.UIImage, postId: Foundation.UUID) -&gt; ()"
+                  moduleName = "ReadingBooks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/begumunal/Developer/ReadingBooks/ReadingBooks/Scene/ToolBar/Profile/ViewModel/SaveEditingInProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "854411FE-AEF2-4BAA-8FCE-83EC4A9653ED - 2473e20fd95bc5c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReadingBooks.SaveEditingInProfile.savePost(userId: Swift.String, name: Swift.String, surename: Swift.String, postImage: __C.UIImage, postId: Foundation.UUID) -&gt; ()"
+                  moduleName = "ReadingBooks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/begumunal/Developer/ReadingBooks/ReadingBooks/Scene/ToolBar/Profile/ViewModel/SaveEditingInProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
